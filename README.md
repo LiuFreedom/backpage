@@ -1,15 +1,15 @@
 # notes
 
-Json 解析：fastJson
+[Json 解析：fastJson](https://github.com/alibaba/fastjson)
 
-时间选择器：pickers
+[仿IOS滚轮式选择器：pickers](https://github.com/addappcn/android-pickers)
 
-事件绑定：butterknife</br>
+[事件绑定：butterknife](https://github.com/JakeWharton/butterknife)加载资源库后可以类似get/set直接快速绑定</br>
 
-图片加载：glide</br>
+[图片加载：glide](https://github.com/bumptech/glide)</br>
 
-事件总栈：AndroidEventBus</br>
+[事件总栈：AndroidEventBus](https://github.com/hehonghui/AndroidEventBus)</br>
 
 [ViewPager指示器框架：MagicIndicator](https://github.com/hackware1993/MagicIndicator)</br>
 
-屏幕适配：AutoLayout</br>
+[屏幕适配：AutoLayout](http://blog.csdn.net/lmj623565791/article/details/49990941/)</br>

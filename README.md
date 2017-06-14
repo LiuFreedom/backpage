@@ -13,3 +13,5 @@
 [ViewPager指示器框架：MagicIndicator](https://github.com/hackware1993/MagicIndicator)</br>
 
 [屏幕适配：AutoLayout](http://blog.csdn.net/lmj623565791/article/details/49990941/)</br>
+
+SwipeRefreshLayout   v4包中的下拉刷新控件，使用时先继承自定义需要的样式，放入xml当中，代码中继承SwipeRefreshLayout.OnRefreshListener并重写onRefresh方法</br>

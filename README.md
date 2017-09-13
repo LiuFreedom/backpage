@@ -18,4 +18,8 @@
 
 [UI的实现 lottie](https://github.com/airbnb/lottie-android)</br>
 
+[二维码](https://github.com/zxing/zxing)</br>
+
+[rxjava2+retrofit2+dagger2+mvp快速搭建](https://github.com/JessYanCoding/MVPArms)</br>
+
 SwipeRefreshLayout   v4包中的下拉刷新控件，使用时先继承自定义需要的样式，放入xml当中（只能有一个子布局），代码中继承SwipeRefreshLayout.OnRefreshListener并重写onRefresh方法</br>

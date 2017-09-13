@@ -14,4 +14,6 @@
 
 [屏幕适配：AutoLayout](http://blog.csdn.net/lmj623565791/article/details/49990941/)</br>
 
+[插件化 滴滴的VirtualAPK](https://github.com/didi/VirtualAPK)</br>
+
 SwipeRefreshLayout   v4包中的下拉刷新控件，使用时先继承自定义需要的样式，放入xml当中（只能有一个子布局），代码中继承SwipeRefreshLayout.OnRefreshListener并重写onRefresh方法</br>

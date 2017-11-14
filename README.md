@@ -26,5 +26,6 @@
 
 [PhotoPicker 照片选择器](https://github.com/donglua/PhotoPicker)
 
+[JiaoZiVideoPlayer 视频播放器](https://github.com/lipangit/JiaoZiVideoPlayer)
 
 SwipeRefreshLayout   v4包中的下拉刷新控件，使用时先继承自定义需要的样式，放入xml当中（只能有一个子布局），代码中继承SwipeRefreshLayout.OnRefreshListener并重写onRefresh方法</br>

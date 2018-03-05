@@ -37,3 +37,7 @@
 [文件下载控件）](https://github.com/lingochamp/FileDownloader)
 
 SwipeRefreshLayout   v4包中的下拉刷新控件，使用时先继承自定义需要的样式，放入xml当中（只能有一个子布局），代码中继承SwipeRefreshLayout.OnRefreshListener并重写onRefresh方法</br>
+
+内存泄漏：一些不使用的变量或者对象不进行释放  就是内存泄漏。
+
+内存溢出：应用所使用的内存超出系统分配的内存 就是内存溢出。
